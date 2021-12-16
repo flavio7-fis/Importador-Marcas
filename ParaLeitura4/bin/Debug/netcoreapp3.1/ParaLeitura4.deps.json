@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ParaLeitura4/1.0.0": {
+        "runtime": {
+          "ParaLeitura4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParaLeitura4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

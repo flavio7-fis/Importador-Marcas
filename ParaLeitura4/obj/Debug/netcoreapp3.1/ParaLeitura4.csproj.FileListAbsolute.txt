@@ -1,0 +1,13 @@
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\bin\Debug\netcoreapp3.1\ParaLeitura4.exe
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\bin\Debug\netcoreapp3.1\ParaLeitura4.deps.json
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\bin\Debug\netcoreapp3.1\ParaLeitura4.runtimeconfig.json
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\bin\Debug\netcoreapp3.1\ParaLeitura4.runtimeconfig.dev.json
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\bin\Debug\netcoreapp3.1\ParaLeitura4.dll
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\bin\Debug\netcoreapp3.1\ParaLeitura4.pdb
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.AssemblyInfo.cs
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.dll
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.pdb
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.genruntimeconfig.cache
+C:\Users\flavi\source\repos\ParaLeitura4\ParaLeitura4\obj\Debug\netcoreapp3.1\ParaLeitura4.csprojAssemblyReference.cache
